@@ -1,0 +1,41 @@
+Acinetobacter baumannii
+Bacillus A anthracis
+Bacillus A cereus
+Bacillus A thuringiensis S
+Bacillus A wiedmannii
+Clostridium H botulinum A
+Corynebacteriaceae genera
+Corynebacterium kefirresidentii
+Corynebacterium propinquum
+Corynebacterium pseudodiphtheriticum
+Corynebacterium sp022288805
+Corynebacterium spp
+Corynebacterium tuberculostearicum
+Enterobacter hormaechei
+Enterobacteriaceae genera
+Escherichia coli
+Shigella spp
+Gammaproteobacteria order
+Klebsiella africana
+Klebsiella pneumoniae
+Klebsiella quasipneumoniae
+Klebsiella spp
+Klebsiella variicola
+Laceyella sacchari
+Moraxella catarrhalis
+Moraxella cuniculi
+Moraxella nonliquefaciens
+Moraxella spp
+Mycobacterium tuberculosis
+Pseudomonas E viridiflava
+Pseudomonas aeruginosa
+Pseudomonas aeruginosa A
+Pseudomonas spp
+Spirillospora cremea
+Staphylococcus aureus
+Staphylococcus capitis
+Staphylococcus caprae
+Staphylococcus epidermidis
+Staphylococcus haemolyticus
+Staphylococcus simiae
+Staphylococcus spp

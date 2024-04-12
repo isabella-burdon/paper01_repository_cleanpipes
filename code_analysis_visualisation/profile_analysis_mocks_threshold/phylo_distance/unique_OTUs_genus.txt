@@ -1,0 +1,12 @@
+Bacillus A
+Corynebacteriaceae genera
+Corynebacterium
+Enterobacter
+Enterobacteriaceae genera
+Shigella
+Gammaproteobacteria order
+Klebsiella
+Laceyella
+Moraxella
+Pseudomonas
+Staphylococcus

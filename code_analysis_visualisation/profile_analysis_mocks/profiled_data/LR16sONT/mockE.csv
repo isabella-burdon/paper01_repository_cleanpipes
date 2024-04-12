@@ -1,0 +1,15 @@
+tax_id,abundance,species,genus,family,order,class,phylum,clade,superkingdom,subspecies,species subgroup,species group
+480,0.07124198740869620,Moraxella catarrhalis,Moraxella,Moraxellaceae,Pseudomonadales,Gammaproteobacteria,Proteobacteria,,Bacteria,,,
+1280,0.34907526126863900,Staphylococcus aureus,Staphylococcus,Staphylococcaceae,Bacillales,Bacilli,Firmicutes,Terrabacteria group,Bacteria,,,
+573,0.4953237984966600,Klebsiella pneumoniae,Klebsiella,Enterobacteriaceae,Enterobacterales,Gammaproteobacteria,Proteobacteria,,Bacteria,,,
+478,0.0016867198224990100,Moraxella nonliquefaciens,Moraxella,Moraxellaceae,Pseudomonadales,Gammaproteobacteria,Proteobacteria,,Bacteria,,,
+244366,0.00015464405011958500,Klebsiella variicola,Klebsiella,Enterobacteriaceae,Enterobacterales,Gammaproteobacteria,Proteobacteria,,Bacteria,,,
+1282,0.06578859218156080,Staphylococcus epidermidis,Staphylococcus,Staphylococcaceae,Bacillales,Bacilli,Firmicutes,Terrabacteria group,Bacteria,,,
+29380,0.0001374437270943670,Staphylococcus caprae,Staphylococcus,Staphylococcaceae,Bacillales,Bacilli,Firmicutes,Terrabacteria group,Bacteria,,,
+37482,0.0025767069090511400,Laceyella sacchari,Laceyella,Thermoactinomycetaceae,Bacillales,Bacilli,Firmicutes,Terrabacteria group,Bacteria,,,
+1283,0.002016619000650210,Staphylococcus haemolyticus,Staphylococcus,Staphylococcaceae,Bacillales,Bacilli,Firmicutes,Terrabacteria group,Bacteria,,,
+29388,0.0004053315148891020,Staphylococcus capitis,Staphylococcus,Staphylococcaceae,Bacillales,Bacilli,Firmicutes,Terrabacteria group,Bacteria,,,
+287,0.010016943549885800,Pseudomonas aeruginosa,Pseudomonas,Pseudomonadaceae,Pseudomonadales,Gammaproteobacteria,Proteobacteria,,Bacteria,,,Pseudomonas aeruginosa group
+37637,0.0012987007373963200,Corynebacterium pseudodiphtheriticum,Corynebacterium,Corynebacteriaceae,Corynebacteriales,Actinobacteria,Actinobacteria,Terrabacteria group,Bacteria,,,
+38304,0.00027725133285924700,Corynebacterium tuberculostearicum,Corynebacterium,Corynebacteriaceae,Corynebacteriales,Actinobacteria,Actinobacteria,Terrabacteria group,Bacteria,,,
+unassigned,0.0,,,,,,,,,,,

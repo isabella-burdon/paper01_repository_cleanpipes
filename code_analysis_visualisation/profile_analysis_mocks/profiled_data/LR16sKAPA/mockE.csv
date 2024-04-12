@@ -1,0 +1,10 @@
+tax_id,abundance,species,genus,family,order,class,phylum,clade,superkingdom,subspecies,species subgroup,species group
+37637,0.20662074119137900,Corynebacterium pseudodiphtheriticum,Corynebacterium,Corynebacteriaceae,Corynebacteriales,Actinobacteria,Actinobacteria,Terrabacteria group,Bacteria,,,
+43769,0.0014248176520677600,Corynebacterium propinquum,Corynebacterium,Corynebacteriaceae,Corynebacteriales,Actinobacteria,Actinobacteria,Terrabacteria group,Bacteria,,,
+38304,0.011610563735525200,Corynebacterium tuberculostearicum,Corynebacterium,Corynebacteriaceae,Corynebacteriales,Actinobacteria,Actinobacteria,Terrabacteria group,Bacteria,,,
+1280,0.5175356908631750,Staphylococcus aureus,Staphylococcus,Staphylococcaceae,Bacillales,Bacilli,Firmicutes,Terrabacteria group,Bacteria,,,
+480,0.10042204829975000,Moraxella catarrhalis,Moraxella,Moraxellaceae,Pseudomonadales,Gammaproteobacteria,Proteobacteria,,Bacteria,,,
+478,0.0011382911401231600,Moraxella nonliquefaciens,Moraxella,Moraxellaceae,Pseudomonadales,Gammaproteobacteria,Proteobacteria,,Bacteria,,,
+1282,0.10396807707750800,Staphylococcus epidermidis,Staphylococcus,Staphylococcaceae,Bacillales,Bacilli,Firmicutes,Terrabacteria group,Bacteria,,,
+573,0.03861718794986210,Klebsiella pneumoniae,Klebsiella,Enterobacteriaceae,Enterobacterales,Gammaproteobacteria,Proteobacteria,,Bacteria,,,
+287,0.018662582090608500,Pseudomonas aeruginosa,Pseudomonas,Pseudomonadaceae,Pseudomonadales,Gammaproteobacteria,Proteobacteria,,Bacteria,,,Pseudomonas aeruginosa group

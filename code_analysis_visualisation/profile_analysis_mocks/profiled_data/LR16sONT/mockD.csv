@@ -1,0 +1,18 @@
+tax_id,abundance,species,genus,family,order,class,phylum,clade,superkingdom,subspecies,species subgroup,species group
+1280,0.3007285939379340,Staphylococcus aureus,Staphylococcus,Staphylococcaceae,Bacillales,Bacilli,Firmicutes,Terrabacteria group,Bacteria,,,
+573,0.5286101743348590,Klebsiella pneumoniae,Klebsiella,Enterobacteriaceae,Enterobacterales,Gammaproteobacteria,Proteobacteria,,Bacteria,,,
+244366,0.0001413560094617820,Klebsiella variicola,Klebsiella,Enterobacteriaceae,Enterobacterales,Gammaproteobacteria,Proteobacteria,,Bacteria,,,
+1463165,8.18767261120496e-05,Klebsiella quasipneumoniae,Klebsiella,Enterobacteriaceae,Enterobacterales,Gammaproteobacteria,Proteobacteria,,Bacteria,,,
+308354,9.38099717001735e-05,Staphylococcus simiae,Staphylococcus,Staphylococcaceae,Bacillales,Bacilli,Firmicutes,Terrabacteria group,Bacteria,,,
+478,0.0021531393056867400,Moraxella nonliquefaciens,Moraxella,Moraxellaceae,Pseudomonadales,Gammaproteobacteria,Proteobacteria,,Bacteria,,,
+480,0.10064920018585600,Moraxella catarrhalis,Moraxella,Moraxellaceae,Pseudomonadales,Gammaproteobacteria,Proteobacteria,,Bacteria,,,
+287,0.014588382011685400,Pseudomonas aeruginosa,Pseudomonas,Pseudomonadaceae,Pseudomonadales,Gammaproteobacteria,Proteobacteria,,Bacteria,,,Pseudomonas aeruginosa group
+1282,0.045786239036565700,Staphylococcus epidermidis,Staphylococcus,Staphylococcaceae,Bacillales,Bacilli,Firmicutes,Terrabacteria group,Bacteria,,,
+29380,0.000102604058469299,Staphylococcus caprae,Staphylococcus,Staphylococcaceae,Bacillales,Bacilli,Firmicutes,Terrabacteria group,Bacteria,,,
+29388,0.0004224019984154740,Staphylococcus capitis,Staphylococcus,Staphylococcaceae,Bacillales,Bacilli,Firmicutes,Terrabacteria group,Bacteria,,,
+1283,0.0021941001185601000,Staphylococcus haemolyticus,Staphylococcus,Staphylococcaceae,Bacillales,Bacilli,Firmicutes,Terrabacteria group,Bacteria,,,
+38304,0.0003039345729853970,Corynebacterium tuberculostearicum,Corynebacterium,Corynebacteriaceae,Corynebacteriales,Actinobacteria,Actinobacteria,Terrabacteria group,Bacteria,,,
+37482,0.002631119595816260,Laceyella sacchari,Laceyella,Thermoactinomycetaceae,Bacillales,Bacilli,Firmicutes,Terrabacteria group,Bacteria,,,
+37637,0.00143547904448661,Corynebacterium pseudodiphtheriticum,Corynebacterium,Corynebacteriaceae,Corynebacteriales,Actinobacteria,Actinobacteria,Terrabacteria group,Bacteria,,,
+158836,7.75890914367541e-05,Enterobacter hormaechei,Enterobacter,Enterobacteriaceae,Enterobacterales,Gammaproteobacteria,Proteobacteria,,Bacteria,,,Enterobacter cloacae complex
+unassigned,0.0,,,,,,,,,,,

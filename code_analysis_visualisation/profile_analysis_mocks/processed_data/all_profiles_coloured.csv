@@ -1,0 +1,449 @@
+sample,fraction,genus,species,genus_hex,species_hex
+Ground_truth,0.1111111111,Corynebacterium,Corynebacterium tuberculostearicum,#007884,#44CADD
+Ground_truth,0.2222222222,Corynebacterium,Corynebacterium pseudodiphtheriticum,#007884,#00A2BA
+Ground_truth,0.1111111111,Staphylococcus,Staphylococcus aureus,#F89E21,#F89E21
+Ground_truth,0.1111111111,Staphylococcus,Staphylococcus epidermidis,#F89E21,#FFE934
+Ground_truth,0.2222222222,Pseudomonas,Pseudomonas aeruginosa,#5C9531,#5C9531
+Ground_truth,0.1111111111,Klebsiella,Klebsiella pneumoniae,#D31A55,#E71C57
+Ground_truth,0.1111111111,Moraxella,Moraxella catarrhalis,#5B33AE,#5B33AE
+A_SR16s,0.7986307231493368,Corynebacterium,Corynebacterium propinquum,#007884,#008C9D
+A_SR16s,0.04458707744972187,Corynebacterium,Corynebacterium spp,#007884,#22BFD6
+A_SR16s,0.05956354300385109,Enterobacteriaceae genera,Enterobacteriaceae genera,#29722C,#29722C
+A_SR16s,0.0065040650406504065,Klebsiella,Klebsiella spp,#D31A55,#EE5787
+A_SR16s,0.04527171587505349,Moraxella,Moraxella spp,#5B33AE,#AA92D6
+A_SR16s,0.04544287548138639,Staphylococcus,Staphylococcus spp,#F89E21,#FEF392
+B_SR16s,0.8442164179104478,Corynebacterium,Corynebacterium propinquum,#007884,#008C9D
+B_SR16s,0.04650852878464819,Corynebacterium,Corynebacterium spp,#007884,#22BFD6
+B_SR16s,0.04717484008528784,Enterobacteriaceae genera,Enterobacteriaceae genera,#29722C,#29722C
+B_SR16s,0.00026652452025586353,Escherichia-Shigella,Escherichia-Shigella spp,#5F1A8F,#5F1A8F
+B_SR16s,0.0026652452025586353,Klebsiella,Klebsiella spp,#D31A55,#EE5787
+B_SR16s,0.016791044776119403,Moraxella,Moraxella spp,#5B33AE,#AA92D6
+B_SR16s,0.0025319829424307033,Pseudomonas,Pseudomonas spp,#5C9531,#80BC41
+B_SR16s,0.0398454157782516,Staphylococcus,Staphylococcus spp,#F89E21,#FEF392
+C_SR16s,0.0007050528789659225,Corynebacteriaceae genera,Corynebacteriaceae genera,#046CB5,#046CB5
+C_SR16s,0.6772032902467685,Corynebacterium,Corynebacterium propinquum,#007884,#008C9D
+C_SR16s,0.03960047003525265,Corynebacterium,Corynebacterium spp,#007884,#22BFD6
+C_SR16s,0.13513513513513511,Enterobacteriaceae genera,Enterobacteriaceae genera,#29722C,#29722C
+C_SR16s,0.006462984723854289,Gammaproteobacteria order,Gammaproteobacteria order,#252F87,#252F87
+C_SR16s,0.003525264394829612,Klebsiella,Klebsiella pneumoniae,#D31A55,#E71C57
+C_SR16s,0.014688601645123383,Klebsiella,Klebsiella spp,#D31A55,#EE5787
+C_SR16s,0.0781433607520564,Moraxella,Moraxella spp,#5B33AE,#AA92D6
+C_SR16s,0.0445358401880141,Staphylococcus,Staphylococcus spp,#F89E21,#FEF392
+D_SR16s,0.7408019222105421,Corynebacterium,Corynebacterium propinquum,#007884,#008C9D
+D_SR16s,0.03281273464484157,Corynebacterium,Corynebacterium spp,#007884,#22BFD6
+D_SR16s,0.06555038294038144,Enterobacteriaceae genera,Enterobacteriaceae genera,#29722C,#29722C
+D_SR16s,0.008484757471091757,Klebsiella,Klebsiella spp,#D31A55,#EE5787
+D_SR16s,0.09933924012614508,Moraxella,Moraxella spp,#5B33AE,#AA92D6
+D_SR16s,0.05301096260699805,Staphylococcus,Staphylococcus spp,#F89E21,#FEF392
+E_SR16s,0.8113233956190077,Corynebacterium,Corynebacterium propinquum,#007884,#008C9D
+E_SR16s,0.03051298201413675,Corynebacterium,Corynebacterium spp,#007884,#22BFD6
+E_SR16s,0.050948281895164114,Enterobacteriaceae genera,Enterobacteriaceae genera,#29722C,#29722C
+E_SR16s,0.004828889355448247,Klebsiella,Klebsiella spp,#D31A55,#EE5787
+E_SR16s,0.0515081531247813,Moraxella,Moraxella spp,#5B33AE,#AA92D6
+E_SR16s,0.050878297991461964,Staphylococcus,Staphylococcus spp,#F89E21,#FEF392
+F_SR16s,0.7164882868048799,Corynebacterium,Corynebacterium propinquum,#007884,#008C9D
+F_SR16s,0.03270713269964823,Corynebacterium,Corynebacterium spp,#007884,#22BFD6
+F_SR16s,0.09258289050220792,Enterobacteriaceae genera,Enterobacteriaceae genera,#29722C,#29722C
+F_SR16s,0.0001496893945063992,Escherichia-Shigella,Escherichia-Shigella spp,#5F1A8F,#5F1A8F
+F_SR16s,0.010104034129181948,Klebsiella,Klebsiella spp,#D31A55,#EE5787
+F_SR16s,0.08113165182246837,Moraxella,Moraxella spp,#5B33AE,#AA92D6
+F_SR16s,0.06683631464710725,Staphylococcus,Staphylococcus spp,#F89E21,#FEF392
+A_LR16sONT,0.548330194477588,Klebsiella,Klebsiella pneumoniae,#D31A55,#E71C57
+A_LR16sONT,0.0001340302372459,Klebsiella,Klebsiella quasipneumoniae,#D31A55,#EA376F
+A_LR16sONT,0.0001333827473141,Klebsiella,Klebsiella variicola,#D31A55,#F284A8
+A_LR16sONT,0.227745961611134,Staphylococcus,Staphylococcus aureus,#F89E21,#F89E21
+A_LR16sONT,0.0024161826386539,Staphylococcus,Staphylococcus haemolyticus,#F89E21,#FFED4D
+A_LR16sONT,0.15325319020771,Moraxella,Moraxella catarrhalis,#5B33AE,#5B33AE
+A_LR16sONT,0.0004882910386925,Moraxella,Moraxella nonliquefaciens,#5B33AE,#896AC6
+A_LR16sONT,0.0001569622917151,Moraxella,Moraxella cuniculi,#5B33AE,#724CBB
+A_LR16sONT,0.0208578502908378,Pseudomonas,Pseudomonas aeruginosa,#5C9531,#5C9531
+A_LR16sONT,0.0409477579797448,Staphylococcus,Staphylococcus epidermidis,#F89E21,#FFE934
+A_LR16sONT,0.0013782966272414,Corynebacterium,Corynebacterium pseudodiphtheriticum,#007884,#00A2BA
+A_LR16sONT,0.000503358982301,Staphylococcus,Staphylococcus capitis,#F89E21,#FCB828
+A_LR16sONT,0.0033505000461037,Laceyella,Laceyella sacchari,#D33B19,#D33B19
+A_LR16sONT,0.0003040408237013,Corynebacterium,Corynebacterium tuberculostearicum,#007884,#44CADD
+B_LR16sONT,0.592359050946949,Klebsiella,Klebsiella pneumoniae,#D31A55,#E71C57
+B_LR16sONT,0.0001023916406681,Klebsiella,Klebsiella variicola,#D31A55,#F284A8
+B_LR16sONT,0.193609894506245,Staphylococcus,Staphylococcus aureus,#F89E21,#F89E21
+B_LR16sONT,0.151538001038885,Moraxella,Moraxella catarrhalis,#5B33AE,#5B33AE
+B_LR16sONT,0.0006969404843808,Moraxella,Moraxella nonliquefaciens,#5B33AE,#896AC6
+B_LR16sONT,0.0021481420485006,Staphylococcus,Staphylococcus haemolyticus,#F89E21,#FFED4D
+B_LR16sONT,0.0373256220205949,Staphylococcus,Staphylococcus epidermidis,#F89E21,#FFE934
+B_LR16sONT,8.93698487272375e-05,Staphylococcus,Staphylococcus caprae,#F89E21,#FDD32F
+B_LR16sONT,0.0003236530239795,Staphylococcus,Staphylococcus capitis,#F89E21,#FCB828
+B_LR16sONT,0.0173975569745651,Pseudomonas,Pseudomonas aeruginosa,#5C9531,#5C9531
+B_LR16sONT,0.0001510272891199,Moraxella,Moraxella cuniculi,#5B33AE,#724CBB
+B_LR16sONT,0.0031483790388147,Laceyella,Laceyella sacchari,#D33B19,#D33B19
+B_LR16sONT,0.0008862632708192,Corynebacterium,Corynebacterium pseudodiphtheriticum,#007884,#00A2BA
+B_LR16sONT,0.0002237078677763,Corynebacterium,Corynebacterium tuberculostearicum,#007884,#44CADD
+C_LR16sONT,0.568170421381021,Klebsiella,Klebsiella pneumoniae,#D31A55,#E71C57
+C_LR16sONT,0.0001271313947146,Klebsiella,Klebsiella variicola,#D31A55,#F284A8
+C_LR16sONT,0.0371844278072561,Pseudomonas,Pseudomonas aeruginosa,#5C9531,#5C9531
+C_LR16sONT,0.201461972865898,Moraxella,Moraxella catarrhalis,#5B33AE,#5B33AE
+C_LR16sONT,0.153184678679095,Staphylococcus,Staphylococcus aureus,#F89E21,#F89E21
+C_LR16sONT,0.0016285444710395,Moraxella,Moraxella nonliquefaciens,#5B33AE,#896AC6
+C_LR16sONT,0.0001203946260485,Moraxella,Moraxella cuniculi,#5B33AE,#724CBB
+C_LR16sONT,0.0326063095691559,Staphylococcus,Staphylococcus epidermidis,#F89E21,#FFE934
+C_LR16sONT,0.0005942594235105,Corynebacterium,Corynebacterium pseudodiphtheriticum,#007884,#00A2BA
+C_LR16sONT,0.0002847071587485,Staphylococcus,Staphylococcus capitis,#F89E21,#FCB828
+C_LR16sONT,0.0028048573719828,Laceyella,Laceyella sacchari,#D33B19,#D33B19
+C_LR16sONT,0.0016936348091409,Staphylococcus,Staphylococcus haemolyticus,#F89E21,#FFED4D
+C_LR16sONT,0.0001386604424028,Corynebacterium,Corynebacterium tuberculostearicum,#007884,#44CADD
+D_LR16sONT,0.300728593937934,Staphylococcus,Staphylococcus aureus,#F89E21,#F89E21
+D_LR16sONT,0.528610174334859,Klebsiella,Klebsiella pneumoniae,#D31A55,#E71C57
+D_LR16sONT,0.0001413560094617,Klebsiella,Klebsiella variicola,#D31A55,#F284A8
+D_LR16sONT,8.18767261120496e-05,Klebsiella,Klebsiella quasipneumoniae,#D31A55,#EA376F
+D_LR16sONT,9.38099717001735e-05,Staphylococcus,Staphylococcus simiae,#F89E21,#FFEF6B
+D_LR16sONT,0.0021531393056867,Moraxella,Moraxella nonliquefaciens,#5B33AE,#896AC6
+D_LR16sONT,0.100649200185856,Moraxella,Moraxella catarrhalis,#5B33AE,#5B33AE
+D_LR16sONT,0.0145883820116854,Pseudomonas,Pseudomonas aeruginosa,#5C9531,#5C9531
+D_LR16sONT,0.0457862390365657,Staphylococcus,Staphylococcus epidermidis,#F89E21,#FFE934
+D_LR16sONT,0.0001026040584692,Staphylococcus,Staphylococcus caprae,#F89E21,#FDD32F
+D_LR16sONT,0.0004224019984154,Staphylococcus,Staphylococcus capitis,#F89E21,#FCB828
+D_LR16sONT,0.0021941001185601,Staphylococcus,Staphylococcus haemolyticus,#F89E21,#FFED4D
+D_LR16sONT,0.0003039345729853,Corynebacterium,Corynebacterium tuberculostearicum,#007884,#44CADD
+D_LR16sONT,0.0026311195958162,Laceyella,Laceyella sacchari,#D33B19,#D33B19
+D_LR16sONT,0.0014354790444866,Corynebacterium,Corynebacterium pseudodiphtheriticum,#007884,#00A2BA
+D_LR16sONT,7.75890914367541e-05,Enterobacter,Enterobacter hormaechei,#005D52,#005D52
+E_LR16sONT,0.0712419874086962,Moraxella,Moraxella catarrhalis,#5B33AE,#5B33AE
+E_LR16sONT,0.349075261268639,Staphylococcus,Staphylococcus aureus,#F89E21,#F89E21
+E_LR16sONT,0.49532379849666,Klebsiella,Klebsiella pneumoniae,#D31A55,#E71C57
+E_LR16sONT,0.001686719822499,Moraxella,Moraxella nonliquefaciens,#5B33AE,#896AC6
+E_LR16sONT,0.0001546440501195,Klebsiella,Klebsiella variicola,#D31A55,#F284A8
+E_LR16sONT,0.0657885921815608,Staphylococcus,Staphylococcus epidermidis,#F89E21,#FFE934
+E_LR16sONT,0.0001374437270943,Staphylococcus,Staphylococcus caprae,#F89E21,#FDD32F
+E_LR16sONT,0.0025767069090511,Laceyella,Laceyella sacchari,#D33B19,#D33B19
+E_LR16sONT,0.0020166190006502,Staphylococcus,Staphylococcus haemolyticus,#F89E21,#FFED4D
+E_LR16sONT,0.0004053315148891,Staphylococcus,Staphylococcus capitis,#F89E21,#FCB828
+E_LR16sONT,0.0100169435498858,Pseudomonas,Pseudomonas aeruginosa,#5C9531,#5C9531
+E_LR16sONT,0.0012987007373963,Corynebacterium,Corynebacterium pseudodiphtheriticum,#007884,#00A2BA
+E_LR16sONT,0.0002772513328592,Corynebacterium,Corynebacterium tuberculostearicum,#007884,#44CADD
+F_LR16sONT,0.551927218050258,Klebsiella,Klebsiella pneumoniae,#D31A55,#E71C57
+F_LR16sONT,0.327352089925339,Staphylococcus,Staphylococcus aureus,#F89E21,#F89E21
+F_LR16sONT,0.000105995309986,Klebsiella,Klebsiella variicola,#D31A55,#F284A8
+F_LR16sONT,0.0551423303756494,Staphylococcus,Staphylococcus epidermidis,#F89E21,#FFE934
+F_LR16sONT,0.0465692115744551,Moraxella,Moraxella catarrhalis,#5B33AE,#5B33AE
+F_LR16sONT,0.0006011750859631,Staphylococcus,Staphylococcus capitis,#F89E21,#FCB828
+F_LR16sONT,0.000162944546214,Staphylococcus,Staphylococcus caprae,#F89E21,#FDD32F
+F_LR16sONT,0.0011491171221897,Moraxella,Moraxella nonliquefaciens,#5B33AE,#896AC6
+F_LR16sONT,0.0018972481492155,Staphylococcus,Staphylococcus haemolyticus,#F89E21,#FFED4D
+F_LR16sONT,0.0111302736911994,Pseudomonas,Pseudomonas aeruginosa,#5C9531,#5C9531
+F_LR16sONT,0.0010268307826038,Corynebacterium,Corynebacterium pseudodiphtheriticum,#007884,#00A2BA
+F_LR16sONT,0.0024860448915953,Laceyella,Laceyella sacchari,#D33B19,#D33B19
+F_LR16sONT,0.000204040050923,Enterobacter,Enterobacter hormaechei,#005D52,#005D52
+F_LR16sONT,0.0002454804444269,Corynebacterium,Corynebacterium tuberculostearicum,#007884,#44CADD
+A_LR16sKAPA,0.532915558571089,Staphylococcus,Staphylococcus aureus,#F89E21,#F89E21
+A_LR16sKAPA,0.124846261649842,Moraxella,Moraxella catarrhalis,#5B33AE,#5B33AE
+A_LR16sKAPA,0.0012873790908775,Moraxella,Moraxella nonliquefaciens,#5B33AE,#896AC6
+A_LR16sKAPA,0.159185769576457,Corynebacterium,Corynebacterium pseudodiphtheriticum,#007884,#00A2BA
+A_LR16sKAPA,0.0011005677934747,Corynebacterium,Corynebacterium propinquum,#007884,#008C9D
+A_LR16sKAPA,0.0269568832857043,Pseudomonas,Pseudomonas aeruginosa,#5C9531,#5C9531
+A_LR16sKAPA,0.0968227205294962,Staphylococcus,Staphylococcus epidermidis,#F89E21,#FFE934
+A_LR16sKAPA,0.0404279366563018,Klebsiella,Klebsiella pneumoniae,#D31A55,#E71C57
+A_LR16sKAPA,0.0164569228467571,Corynebacterium,Corynebacterium tuberculostearicum,#007884,#44CADD
+B_LR16sKAPA,0.151700444384481,Corynebacterium,Corynebacterium pseudodiphtheriticum,#007884,#00A2BA
+B_LR16sKAPA,0.0010464814743685,Corynebacterium,Corynebacterium propinquum,#007884,#008C9D
+B_LR16sKAPA,0.519055118237298,Staphylococcus,Staphylococcus aureus,#F89E21,#F89E21
+B_LR16sKAPA,0.137279545957151,Moraxella,Moraxella catarrhalis,#5B33AE,#5B33AE
+B_LR16sKAPA,0.0012126126910245,Moraxella,Moraxella nonliquefaciens,#5B33AE,#896AC6
+B_LR16sKAPA,0.108430088767161,Staphylococcus,Staphylococcus epidermidis,#F89E21,#FFE934
+B_LR16sKAPA,0.0135130237940438,Corynebacterium,Corynebacterium tuberculostearicum,#007884,#44CADD
+B_LR16sKAPA,0.022195088499247,Pseudomonas,Pseudomonas aeruginosa,#5C9531,#5C9531
+B_LR16sKAPA,0.0455675961952256,Klebsiella,Klebsiella pneumoniae,#D31A55,#E71C57
+C_LR16sKAPA,0.0684046634969463,Klebsiella,Klebsiella pneumoniae,#D31A55,#E71C57
+C_LR16sKAPA,0.117303631457608,Corynebacterium,Corynebacterium pseudodiphtheriticum,#007884,#00A2BA
+C_LR16sKAPA,0.0012544034641772,Corynebacterium,Corynebacterium propinquum,#007884,#008C9D
+C_LR16sKAPA,0.0987568236015384,Staphylococcus,Staphylococcus epidermidis,#F89E21,#FFE934
+C_LR16sKAPA,0.482571945554216,Staphylococcus,Staphylococcus aureus,#F89E21,#F89E21
+C_LR16sKAPA,0.170341220777244,Moraxella,Moraxella catarrhalis,#5B33AE,#5B33AE
+C_LR16sKAPA,0.0019644077760697,Moraxella,Moraxella nonliquefaciens,#5B33AE,#896AC6
+C_LR16sKAPA,0.0482422882738778,Pseudomonas,Pseudomonas aeruginosa,#5C9531,#5C9531
+C_LR16sKAPA,0.0111606155983243,Corynebacterium,Corynebacterium tuberculostearicum,#007884,#44CADD
+D_LR16sKAPA,0.530226124200794,Staphylococcus,Staphylococcus aureus,#F89E21,#F89E21
+D_LR16sKAPA,0.198650446559902,Corynebacterium,Corynebacterium pseudodiphtheriticum,#007884,#00A2BA
+D_LR16sKAPA,0.0010630866371502,Corynebacterium,Corynebacterium propinquum,#007884,#008C9D
+D_LR16sKAPA,0.111997078483766,Moraxella,Moraxella catarrhalis,#5B33AE,#5B33AE
+D_LR16sKAPA,0.0014828461885033,Moraxella,Moraxella nonliquefaciens,#5B33AE,#896AC6
+D_LR16sKAPA,0.0842090745054783,Staphylococcus,Staphylococcus epidermidis,#F89E21,#FFE934
+D_LR16sKAPA,0.0117823573265404,Corynebacterium,Corynebacterium tuberculostearicum,#007884,#44CADD
+D_LR16sKAPA,0.0375928788268167,Klebsiella,Klebsiella pneumoniae,#D31A55,#E71C57
+D_LR16sKAPA,0.0229961072710508,Pseudomonas,Pseudomonas aeruginosa,#5C9531,#5C9531
+E_LR16sKAPA,0.206620741191379,Corynebacterium,Corynebacterium pseudodiphtheriticum,#007884,#00A2BA
+E_LR16sKAPA,0.0014248176520677,Corynebacterium,Corynebacterium propinquum,#007884,#008C9D
+E_LR16sKAPA,0.0116105637355252,Corynebacterium,Corynebacterium tuberculostearicum,#007884,#44CADD
+E_LR16sKAPA,0.517535690863175,Staphylococcus,Staphylococcus aureus,#F89E21,#F89E21
+E_LR16sKAPA,0.10042204829975,Moraxella,Moraxella catarrhalis,#5B33AE,#5B33AE
+E_LR16sKAPA,0.0011382911401231,Moraxella,Moraxella nonliquefaciens,#5B33AE,#896AC6
+E_LR16sKAPA,0.103968077077508,Staphylococcus,Staphylococcus epidermidis,#F89E21,#FFE934
+E_LR16sKAPA,0.0386171879498621,Klebsiella,Klebsiella pneumoniae,#D31A55,#E71C57
+E_LR16sKAPA,0.0186625820906085,Pseudomonas,Pseudomonas aeruginosa,#5C9531,#5C9531
+F_LR16sKAPA,0.150701155502413,Corynebacterium,Corynebacterium pseudodiphtheriticum,#007884,#00A2BA
+F_LR16sKAPA,0.522467925773115,Staphylococcus,Staphylococcus aureus,#F89E21,#F89E21
+F_LR16sKAPA,0.124182808302636,Moraxella,Moraxella catarrhalis,#5B33AE,#5B33AE
+F_LR16sKAPA,0.0013369181320455,Moraxella,Moraxella nonliquefaciens,#5B33AE,#896AC6
+F_LR16sKAPA,0.0369105630951685,Pseudomonas,Pseudomonas aeruginosa,#5C9531,#5C9531
+F_LR16sKAPA,0.0978016961887521,Staphylococcus,Staphylococcus epidermidis,#F89E21,#FFE934
+F_LR16sKAPA,0.0097021655676312,Corynebacterium,Corynebacterium tuberculostearicum,#007884,#44CADD
+F_LR16sKAPA,0.0568967674382393,Klebsiella,Klebsiella pneumoniae,#D31A55,#E71C57
+A_SRshot,0.2543133462282415,Pseudomonas,Pseudomonas aeruginosa,#5C9531,#5C9531
+A_SRshot,0.21791102514506974,Klebsiella,Klebsiella pneumoniae,#D31A55,#E71C57
+A_SRshot,0.11640232108317289,Corynebacterium,Corynebacterium pseudodiphtheriticum,#007884,#00A2BA
+A_SRshot,0.11292069632495241,Staphylococcus,Staphylococcus aureus,#F89E21,#F89E21
+A_SRshot,0.09388781431334667,Corynebacterium,Corynebacterium kefirresidentii,#007884,#007884
+A_SRshot,0.09346228239845263,Staphylococcus,Staphylococcus epidermidis,#F89E21,#FFE934
+A_SRshot,0.07535783365570618,Moraxella,Moraxella catarrhalis,#5B33AE,#5B33AE
+A_SRshot,0.014816247582204813,Bacillus A,Bacillus A anthracis,#303E45,#303E45
+A_SRshot,0.00441005802707825,Klebsiella,Klebsiella quasipneumoniae,#D31A55,#EA376F
+A_SRshot,0.0034429400386840974,Bacillus A,Bacillus A wiedmannii,#303E45,#557280
+A_SRshot,0.0032882011605401195,Pseudomonas,Pseudomonas aeruginosa A,#5C9531,#70AA3A
+A_SRshot,0.0030947775628612888,Klebsiella,Klebsiella variicola,#D31A55,#F284A8
+A_SRshot,0.0022823984526111137,Corynebacterium,Corynebacterium propinquum,#007884,#008C9D
+A_SRshot,0.0022823984526111137,Klebsiella,Klebsiella africana,#D31A55,#D31A55
+A_SRshot,0.0021276595744671362,Corynebacterium,Corynebacterium sp022288805,#007884,#00B4CF
+B_SRshot,0.2516805592901353,Pseudomonas,Pseudomonas aeruginosa,#5C9531,#5C9531
+B_SRshot,0.2188760419467627,Klebsiella,Klebsiella pneumoniae,#D31A55,#E71C57
+B_SRshot,0.11604501978258412,Corynebacterium,Corynebacterium pseudodiphtheriticum,#007884,#00A2BA
+B_SRshot,0.1117043752160723,Staphylococcus,Staphylococcus aureus,#F89E21,#F89E21
+B_SRshot,0.0951484654092888,Corynebacterium,Corynebacterium kefirresidentii,#007884,#007884
+B_SRshot,0.09280528559904802,Staphylococcus,Staphylococcus epidermidis,#F89E21,#FFE934
+B_SRshot,0.07736334652172275,Moraxella,Moraxella catarrhalis,#5B33AE,#5B33AE
+B_SRshot,0.01302193369953384,Bacillus A,Bacillus A anthracis,#303E45,#303E45
+B_SRshot,0.004916836323126961,Klebsiella,Klebsiella africana,#D31A55,#D31A55
+B_SRshot,0.004455882917834525,Klebsiella,Klebsiella variicola,#D31A55,#F284A8
+B_SRshot,0.0033803249721499904,Klebsiella,Klebsiella quasipneumoniae,#D31A55,#EA376F
+B_SRshot,0.003149848269502953,Bacillus A,Bacillus A wiedmannii,#303E45,#557280
+B_SRshot,0.002804133215533217,Corynebacterium,Corynebacterium propinquum,#007884,#008C9D
+B_SRshot,0.00257365651288618,Pseudomonas,Pseudomonas aeruginosa A,#5C9531,#70AA3A
+B_SRshot,0.002074290323818418,Corynebacterium,Corynebacterium sp022288805,#007884,#00B4CF
+C_SRshot,0.26099764336213754,Pseudomonas,Pseudomonas aeruginosa,#5C9531,#5C9531
+C_SRshot,0.22321288295365344,Klebsiella,Klebsiella pneumoniae,#D31A55,#E71C57
+C_SRshot,0.11209740769835116,Staphylococcus,Staphylococcus aureus,#F89E21,#F89E21
+C_SRshot,0.11154752553024423,Corynebacterium,Corynebacterium pseudodiphtheriticum,#007884,#00A2BA
+C_SRshot,0.09489395129615141,Staphylococcus,Staphylococcus epidermidis,#F89E21,#FFE934
+C_SRshot,0.09198743126472957,Corynebacterium,Corynebacterium kefirresidentii,#007884,#007884
+C_SRshot,0.07572663000785526,Moraxella,Moraxella catarrhalis,#5B33AE,#5B33AE
+C_SRshot,0.013786331500391751,Bacillus A,Bacillus A anthracis,#303E45,#303E45
+C_SRshot,0.003927729772191513,Klebsiella,Klebsiella variicola,#D31A55,#F284A8
+C_SRshot,0.003260015710918233,Pseudomonas,Pseudomonas aeruginosa A,#5C9531,#70AA3A
+C_SRshot,0.003024351924586873,Klebsiella,Klebsiella africana,#D31A55,#D31A55
+C_SRshot,0.0029457973291426485,Bacillus A,Bacillus A wiedmannii,#303E45,#557280
+C_SRshot,0.002592301649646267,Klebsiella,Klebsiella quasipneumoniae,#D31A55,#EA376F
+E_SRshot,0.25172143974961164,Pseudomonas,Pseudomonas aeruginosa,#5C9531,#5C9531
+E_SRshot,0.22233959311424215,Klebsiella,Klebsiella pneumoniae,#D31A55,#E71C57
+E_SRshot,0.1164319248826289,Corynebacterium,Corynebacterium pseudodiphtheriticum,#007884,#00A2BA
+E_SRshot,0.11361502347417894,Staphylococcus,Staphylococcus aureus,#F89E21,#F89E21
+E_SRshot,0.09577464788732382,Corynebacterium,Corynebacterium kefirresidentii,#007884,#007884
+E_SRshot,0.09452269170579107,Staphylococcus,Staphylococcus epidermidis,#F89E21,#FFE934
+E_SRshot,0.07558685446009371,Moraxella,Moraxella catarrhalis,#5B33AE,#5B33AE
+E_SRshot,0.010485133020343923,Bacillus A,Bacillus A anthracis,#303E45,#303E45
+E_SRshot,0.004264475743348468,Klebsiella,Klebsiella variicola,#D31A55,#F284A8
+E_SRshot,0.002973395931142228,Corynebacterium,Corynebacterium propinquum,#007884,#008C9D
+E_SRshot,0.0029342723004687275,Klebsiella,Klebsiella quasipneumoniae,#D31A55,#EA376F
+E_SRshot,0.0028169014084499784,Spirillospora,Spirillospora cremea,#ED6106,#ED6106
+E_SRshot,0.0023865414710484826,Klebsiella,Klebsiella africana,#D31A55,#D31A55
+E_SRshot,0.0021126760563374837,Corynebacterium,Corynebacterium sp022288805,#007884,#00B4CF
+E_SRshot,0.0020344287949904823,Bacillus A,Bacillus A wiedmannii,#303E45,#557280
+F_SRshot,0.2597303892155704,Pseudomonas,Pseudomonas aeruginosa,#5C9531,#5C9531
+F_SRshot,0.22532901316052742,Klebsiella,Klebsiella pneumoniae,#D31A55,#E71C57
+F_SRshot,0.11440457618304738,Corynebacterium,Corynebacterium pseudodiphtheriticum,#007884,#00A2BA
+F_SRshot,0.114164566582664,Staphylococcus,Staphylococcus aureus,#F89E21,#F89E21
+F_SRshot,0.09664386575462985,Staphylococcus,Staphylococcus epidermidis,#F89E21,#FFE934
+F_SRshot,0.09252370094803844,Corynebacterium,Corynebacterium kefirresidentii,#007884,#007884
+F_SRshot,0.07636305452218103,Moraxella,Moraxella catarrhalis,#5B33AE,#5B33AE
+F_SRshot,0.007880315212608369,Bacillus A,Bacillus A anthracis,#303E45,#303E45
+F_SRshot,0.0033201328053113536,Klebsiella,Klebsiella variicola,#D31A55,#F284A8
+F_SRshot,0.002840113604543312,Spirillospora,Spirillospora cremea,#ED6106,#ED6106
+F_SRshot,0.0024800992039675923,Klebsiella,Klebsiella quasipneumoniae,#D31A55,#EA376F
+F_SRshot,0.002280091203647886,Pseudomonas,Pseudomonas aeruginosa A,#5C9531,#70AA3A
+F_SRshot,0.002040081603263243,Bacillus A,Bacillus A wiedmannii,#303E45,#557280
+A_SRshot_noPre,0.25563271604938526,Pseudomonas,Pseudomonas aeruginosa,#5C9531,#5C9531
+A_SRshot_noPre,0.21732253086419986,Klebsiella,Klebsiella pneumoniae,#D31A55,#E71C57
+A_SRshot_noPre,0.11631944444444556,Corynebacterium,Corynebacterium pseudodiphtheriticum,#007884,#00A2BA
+A_SRshot_noPre,0.1126543209876549,Staphylococcus,Staphylococcus aureus,#F89E21,#F89E21
+A_SRshot_noPre,0.09375000000000017,Corynebacterium,Corynebacterium kefirresidentii,#007884,#007884
+A_SRshot_noPre,0.09320987654320984,Staphylococcus,Staphylococcus epidermidis,#F89E21,#FFE934
+A_SRshot_noPre,0.07523148148148137,Moraxella,Moraxella catarrhalis,#5B33AE,#5B33AE
+A_SRshot_noPre,0.014776234567900946,Bacillus A,Bacillus A anthracis,#303E45,#303E45
+A_SRshot_noPre,0.004436728395060898,Klebsiella,Klebsiella quasipneumoniae,#D31A55,#EA376F
+A_SRshot_noPre,0.0034336419753074384,Bacillus A,Bacillus A wiedmannii,#303E45,#557280
+A_SRshot_noPre,0.003356481481480249,Pseudomonas,Pseudomonas aeruginosa A,#5C9531,#70AA3A
+A_SRshot_noPre,0.0032407407407402922,Klebsiella,Klebsiella variicola,#D31A55,#F284A8
+A_SRshot_noPre,0.002314814814814022,Corynebacterium,Corynebacterium propinquum,#007884,#008C9D
+A_SRshot_noPre,0.002160493827159643,Corynebacterium,Corynebacterium sp022288805,#007884,#00B4CF
+A_SRshot_noPre,0.002160493827159643,Klebsiella,Klebsiella africana,#D31A55,#D31A55
+B_SRshot_noPre,0.2529594299505826,Pseudomonas,Pseudomonas aeruginosa,#5C9531,#5C9531
+B_SRshot_noPre,0.2182890855457253,Klebsiella,Klebsiella pneumoniae,#D31A55,#E71C57
+B_SRshot_noPre,0.11630847029077106,Corynebacterium,Corynebacterium pseudodiphtheriticum,#007884,#00A2BA
+B_SRshot_noPre,0.11144312914224529,Staphylococcus,Staphylococcus aureus,#F89E21,#F89E21
+B_SRshot_noPre,0.09504654637398101,Corynebacterium,Corynebacterium kefirresidentii,#007884,#007884
+B_SRshot_noPre,0.09255641114048234,Staphylococcus,Staphylococcus epidermidis,#F89E21,#FFE934
+B_SRshot_noPre,0.07727081178408628,Moraxella,Moraxella catarrhalis,#5B33AE,#5B33AE
+B_SRshot_noPre,0.013025322759835228,Bacillus A,Bacillus A anthracis,#303E45,#303E45
+B_SRshot_noPre,0.004903650921348445,Klebsiella,Klebsiella africana,#D31A55,#D31A55
+B_SRshot_noPre,0.004482243420295478,Klebsiella,Klebsiella variicola,#D31A55,#F284A8
+B_SRshot_noPre,0.0033712600084272767,Klebsiella,Klebsiella quasipneumoniae,#D31A55,#EA376F
+B_SRshot_noPre,0.0031414013714894545,Bacillus A,Bacillus A wiedmannii,#303E45,#557280
+B_SRshot_noPre,0.0026816840976120453,Pseudomonas,Pseudomonas aeruginosa A,#5C9531,#70AA3A
+B_SRshot_noPre,0.0024518254606742227,Corynebacterium,Corynebacterium propinquum,#007884,#008C9D
+B_SRshot_noPre,0.0020687277324439304,Corynebacterium,Corynebacterium sp022288805,#007884,#00B4CF
+C_SRshot_noPre,0.26106246809847417,Pseudomonas,Pseudomonas aeruginosa,#5C9531,#5C9531
+C_SRshot_noPre,0.22313400604656755,Klebsiella,Klebsiella pneumoniae,#D31A55,#E71C57
+C_SRshot_noPre,0.11205779575169875,Staphylococcus,Staphylococcus aureus,#F89E21,#F89E21
+C_SRshot_noPre,0.11154737131414649,Corynebacterium,Corynebacterium pseudodiphtheriticum,#007884,#00A2BA
+C_SRshot_noPre,0.09486041854803968,Staphylococcus,Staphylococcus epidermidis,#F89E21,#FFE934
+C_SRshot_noPre,0.0919549255958229,Corynebacterium,Corynebacterium kefirresidentii,#007884,#007884
+C_SRshot_noPre,0.07577839726726553,Moraxella,Moraxella catarrhalis,#5B33AE,#5B33AE
+C_SRshot_noPre,0.01378145981389142,Bacillus A,Bacillus A anthracis,#303E45,#303E45
+C_SRshot_noPre,0.003965605245591631,Klebsiella,Klebsiella variicola,#D31A55,#F284A8
+C_SRshot_noPre,0.0032981271349482155,Pseudomonas,Pseudomonas aeruginosa A,#5C9531,#70AA3A
+C_SRshot_noPre,0.0030232832070347933,Klebsiella,Klebsiella africana,#D31A55,#D31A55
+C_SRshot_noPre,0.0029447563704885094,Bacillus A,Bacillus A wiedmannii,#303E45,#557280
+C_SRshot_noPre,0.0025913856060302306,Klebsiella,Klebsiella quasipneumoniae,#D31A55,#EA376F
+E_SRshot_noPre,0.24082319925164145,Pseudomonas,Pseudomonas aeruginosa,#5C9531,#5C9531
+E_SRshot_noPre,0.21403180542563652,Klebsiella,Klebsiella pneumoniae,#D31A55,#E71C57
+E_SRshot_noPre,0.11146866230121631,Corynebacterium,Corynebacterium pseudodiphtheriticum,#007884,#00A2BA
+E_SRshot_noPre,0.10679139382600666,Staphylococcus,Staphylococcus aureus,#F89E21,#F89E21
+E_SRshot_noPre,0.0916744621141281,Corynebacterium,Corynebacterium kefirresidentii,#007884,#007884
+E_SRshot_noPre,0.09040224508886877,Staphylococcus,Staphylococcus epidermidis,#F89E21,#FFE934
+E_SRshot_noPre,0.07232927970065668,Moraxella,Moraxella catarrhalis,#5B33AE,#5B33AE
+E_SRshot_noPre,0.01747427502338116,Escherichia,Escherichia coli,#BF2524,#BF2524
+E_SRshot_noPre,0.010028063610847671,Bacillus A,Bacillus A anthracis,#303E45,#303E45
+E_SRshot_noPre,0.008606173994387012,Mycobacterium,Mycobacterium tuberculosis,#452E29,#452E29
+E_SRshot_noPre,0.00797006548175415,Bacillus A,Bacillus A thuringiensis S,#303E45,#4A636F
+E_SRshot_noPre,0.007184284377919955,Acinetobacter,Acinetobacter baumannii,#3A3A3A,#3A3A3A
+E_SRshot_noPre,0.004078578110383716,Klebsiella,Klebsiella variicola,#D31A55,#F284A8
+E_SRshot_noPre,0.0029934518241348383,Pseudomonas E,Pseudomonas E viridiflava,#949221,#949221
+E_SRshot_noPre,0.0028811973807297817,Corynebacterium,Corynebacterium propinquum,#007884,#008C9D
+E_SRshot_noPre,0.0027315247895230398,Klebsiella,Klebsiella quasipneumoniae,#D31A55,#EA376F
+E_SRshot_noPre,0.0022450888681011284,Spirillospora,Spirillospora cremea,#ED6106,#ED6106
+E_SRshot_noPre,0.002207670720299443,Klebsiella,Klebsiella africana,#D31A55,#D31A55
+E_SRshot_noPre,0.002057998129092701,Corynebacterium,Corynebacterium sp022288805,#007884,#00B4CF
+E_SRshot_noPre,0.0020205799812910152,Clostridium H,Clostridium H botulinum A,#165AB8,#165AB8
+F_SRshot_noPre,0.2513739453518099,Pseudomonas,Pseudomonas aeruginosa,#5C9531,#5C9531
+F_SRshot_noPre,0.22056660732255381,Klebsiella,Klebsiella pneumoniae,#D31A55,#E71C57
+F_SRshot_noPre,0.11076708723585343,Corynebacterium,Corynebacterium pseudodiphtheriticum,#007884,#00A2BA
+F_SRshot_noPre,0.11045746574812183,Staphylococcus,Staphylococcus aureus,#F89E21,#F89E21
+F_SRshot_noPre,0.09350568929483817,Staphylococcus,Staphylococcus epidermidis,#F89E21,#FFE934
+F_SRshot_noPre,0.0895580153262627,Corynebacterium,Corynebacterium kefirresidentii,#007884,#007884
+F_SRshot_noPre,0.07396083288180359,Moraxella,Moraxella catarrhalis,#5B33AE,#5B33AE
+F_SRshot_noPre,0.00870810434243818,Escherichia,Escherichia coli,#BF2524,#BF2524
+F_SRshot_noPre,0.008282374796808411,Bacillus A,Bacillus A thuringiensis S,#303E45,#4A636F
+F_SRshot_noPre,0.0074309157055488725,Mycobacterium,Mycobacterium tuberculosis,#452E29,#452E29
+F_SRshot_noPre,0.006811672730085686,Bacillus A,Bacillus A anthracis,#303E45,#303E45
+F_SRshot_noPre,0.004063782026472753,Acinetobacter,Acinetobacter baumannii,#3A3A3A,#3A3A3A
+F_SRshot_noPre,0.0032897283071446097,Klebsiella,Klebsiella variicola,#D31A55,#F284A8
+F_SRshot_noPre,0.0025930799597492804,Spirillospora,Spirillospora cremea,#ED6106,#ED6106
+F_SRshot_noPre,0.00232216115798443,Klebsiella,Klebsiella quasipneumoniae,#D31A55,#EA376F
+F_SRshot_noPre,0.0022060531000852087,Pseudomonas,Pseudomonas aeruginosa A,#5C9531,#70AA3A
+F_SRshot_noPre,0.0020899450421859875,Pseudomonas E,Pseudomonas E viridiflava,#949221,#949221
+F_SRshot_noPre,0.002012539670253173,Bacillus A,Bacillus A cereus,#303E45,#3C5059
+A_LRshot,0.27000757947300386,Pseudomonas,Pseudomonas aeruginosa,#5C9531,#5C9531
+A_LRshot,0.2037540683935977,Klebsiella,Klebsiella pneumoniae,#D31A55,#E71C57
+A_LRshot,0.12510588969637526,Staphylococcus,Staphylococcus aureus,#F89E21,#F89E21
+A_LRshot,0.11748183155735878,Corynebacterium,Corynebacterium pseudodiphtheriticum,#007884,#00A2BA
+A_LRshot,0.09790895715368497,Corynebacterium,Corynebacterium kefirresidentii,#007884,#007884
+A_LRshot,0.08199206384591376,Moraxella,Moraxella catarrhalis,#5B33AE,#5B33AE
+A_LRshot,0.06754648000356671,Staphylococcus,Staphylococcus epidermidis,#F89E21,#FFE934
+A_LRshot,0.028222390654955496,Bacillus A,Bacillus A anthracis,#303E45,#303E45
+A_LRshot,0.007980739221543453,Bacillus A,Bacillus A wiedmannii,#303E45,#557280
+B_LRshot,0.2621632488942503,Pseudomonas,Pseudomonas aeruginosa,#5C9531,#5C9531
+B_LRshot,0.21717374793369967,Klebsiella,Klebsiella pneumoniae,#D31A55,#E71C57
+B_LRshot,0.12473752401376052,Staphylococcus,Staphylococcus aureus,#F89E21,#F89E21
+B_LRshot,0.11906357503462447,Corynebacterium,Corynebacterium pseudodiphtheriticum,#007884,#00A2BA
+B_LRshot,0.09811017289907521,Corynebacterium,Corynebacterium kefirresidentii,#007884,#007884
+B_LRshot,0.08216056828843307,Moraxella,Moraxella catarrhalis,#5B33AE,#5B33AE
+B_LRshot,0.07188491265692716,Staphylococcus,Staphylococcus epidermidis,#F89E21,#FFE934
+B_LRshot,0.02014922039047475,Bacillus A,Bacillus A anthracis,#303E45,#303E45
+B_LRshot,0.004557029888754732,Bacillus A,Bacillus A wiedmannii,#303E45,#557280
+C_LRshot,0.2814878644262531,Pseudomonas,Pseudomonas aeruginosa,#5C9531,#5C9531
+C_LRshot,0.21398822346689644,Klebsiella,Klebsiella pneumoniae,#D31A55,#E71C57
+C_LRshot,0.12422806261668824,Staphylococcus,Staphylococcus aureus,#F89E21,#F89E21
+C_LRshot,0.11091962276796394,Corynebacterium,Corynebacterium pseudodiphtheriticum,#007884,#00A2BA
+C_LRshot,0.09952606635071096,Corynebacterium,Corynebacterium kefirresidentii,#007884,#007884
+C_LRshot,0.0877974053329504,Moraxella,Moraxella catarrhalis,#5B33AE,#5B33AE
+C_LRshot,0.05136674804921237,Staphylococcus,Staphylococcus epidermidis,#F89E21,#FFE934
+C_LRshot,0.024414763751256535,Bacillus A,Bacillus A anthracis,#303E45,#303E45
+C_LRshot,0.006271243238067885,Bacillus A,Bacillus A wiedmannii,#303E45,#557280
+D_LRshot,0.22234457903694077,Klebsiella,Klebsiella pneumoniae,#D31A55,#E71C57
+D_LRshot,0.2164881369506459,Pseudomonas,Pseudomonas aeruginosa,#5C9531,#5C9531
+D_LRshot,0.13925317849634603,Staphylococcus,Staphylococcus aureus,#F89E21,#F89E21
+D_LRshot,0.13279607568325164,Corynebacterium,Corynebacterium pseudodiphtheriticum,#007884,#00A2BA
+D_LRshot,0.10676744418860745,Corynebacterium,Corynebacterium kefirresidentii,#007884,#007884
+D_LRshot,0.09210131144258688,Moraxella,Moraxella catarrhalis,#5B33AE,#5B33AE
+D_LRshot,0.06251877064771241,Staphylococcus,Staphylococcus epidermidis,#F89E21,#FFE934
+D_LRshot,0.022474722194413693,Bacillus A,Bacillus A anthracis,#303E45,#303E45
+D_LRshot,0.005255781359495388,Bacillus A,Bacillus A wiedmannii,#303E45,#557280
+E_LRshot,0.2043138890544003,Klebsiella,Klebsiella pneumoniae,#D31A55,#E71C57
+E_LRshot,0.1819102663409402,Pseudomonas,Pseudomonas aeruginosa,#5C9531,#5C9531
+E_LRshot,0.15468033128761244,Corynebacterium,Corynebacterium pseudodiphtheriticum,#007884,#00A2BA
+E_LRshot,0.1491390097122089,Staphylococcus,Staphylococcus aureus,#F89E21,#F89E21
+E_LRshot,0.11994279926115717,Corynebacterium,Corynebacterium kefirresidentii,#007884,#007884
+E_LRshot,0.10874098790442714,Moraxella,Moraxella catarrhalis,#5B33AE,#5B33AE
+E_LRshot,0.0605374486087111,Staphylococcus,Staphylococcus epidermidis,#F89E21,#FFE934
+E_LRshot,0.017458142167669558,Bacillus A,Bacillus A anthracis,#303E45,#303E45
+E_LRshot,0.0032771256628729836,Bacillus A,Bacillus A wiedmannii,#303E45,#557280
+F_LRshot,0.2125122830003276,Klebsiella,Klebsiella pneumoniae,#D31A55,#E71C57
+F_LRshot,0.20537176547658045,Pseudomonas,Pseudomonas aeruginosa,#5C9531,#5C9531
+F_LRshot,0.1440550278414674,Staphylococcus,Staphylococcus aureus,#F89E21,#F89E21
+F_LRshot,0.13946937438585,Corynebacterium,Corynebacterium pseudodiphtheriticum,#007884,#00A2BA
+F_LRshot,0.11765476580412712,Moraxella,Moraxella catarrhalis,#5B33AE,#5B33AE
+F_LRshot,0.10579757615460204,Corynebacterium,Corynebacterium kefirresidentii,#007884,#007884
+F_LRshot,0.0509007533573534,Staphylococcus,Staphylococcus epidermidis,#F89E21,#FFE934
+F_LRshot,0.0191287258434326,Bacillus A,Bacillus A anthracis,#303E45,#303E45
+F_LRshot,0.005109728136259287,Bacillus A,Bacillus A wiedmannii,#303E45,#557280
+A_LRshot_noPre,0.2695158212399594,Pseudomonas,Pseudomonas aeruginosa,#5C9531,#5C9531
+A_LRshot_noPre,0.20321306528203092,Klebsiella,Klebsiella pneumoniae,#D31A55,#E71C57
+A_LRshot_noPre,0.12470598677495227,Staphylococcus,Staphylococcus aureus,#F89E21,#F89E21
+A_LRshot_noPre,0.11693959969822026,Corynebacterium,Corynebacterium pseudodiphtheriticum,#007884,#00A2BA
+A_LRshot_noPre,0.09745706297430425,Corynebacterium,Corynebacterium kefirresidentii,#007884,#007884
+A_LRshot_noPre,0.08161363333777125,Moraxella,Moraxella catarrhalis,#5B33AE,#5B33AE
+A_LRshot_noPre,0.06754537789020544,Staphylococcus,Staphylococcus epidermidis,#F89E21,#FFE934
+A_LRshot_noPre,0.030488616695513216,Bacillus A,Bacillus A anthracis,#303E45,#303E45
+A_LRshot_noPre,0.008520836107043005,Bacillus A,Bacillus A wiedmannii,#303E45,#557280
+B_LRshot_noPre,0.2620330379803198,Pseudomonas,Pseudomonas aeruginosa,#5C9531,#5C9531
+B_LRshot_noPre,0.2169286254953471,Klebsiella,Klebsiella pneumoniae,#D31A55,#E71C57
+B_LRshot_noPre,0.12440447036822659,Staphylococcus,Staphylococcus aureus,#F89E21,#F89E21
+B_LRshot_noPre,0.11870519613517962,Corynebacterium,Corynebacterium pseudodiphtheriticum,#007884,#00A2BA
+B_LRshot_noPre,0.0977781735607106,Corynebacterium,Corynebacterium kefirresidentii,#007884,#007884
+B_LRshot_noPre,0.08188254152010321,Moraxella,Moraxella catarrhalis,#5B33AE,#5B33AE
+B_LRshot_noPre,0.07181976045237996,Staphylococcus,Staphylococcus epidermidis,#F89E21,#FFE934
+B_LRshot_noPre,0.021505855113762865,Bacillus A,Bacillus A anthracis,#303E45,#303E45
+B_LRshot_noPre,0.004942339373970328,Bacillus A,Bacillus A wiedmannii,#303E45,#557280
+C_LRshot_noPre,0.28023123578468545,Pseudomonas,Pseudomonas aeruginosa,#5C9531,#5C9531
+C_LRshot_noPre,0.21294541319181207,Klebsiella,Klebsiella pneumoniae,#D31A55,#E71C57
+C_LRshot_noPre,0.12324677786201668,Staphylococcus,Staphylococcus aureus,#F89E21,#F89E21
+C_LRshot_noPre,0.11007391963608787,Corynebacterium,Corynebacterium pseudodiphtheriticum,#007884,#00A2BA
+C_LRshot_noPre,0.09908074298711136,Corynebacterium,Corynebacterium kefirresidentii,#007884,#007884
+C_LRshot_noPre,0.08690295678544352,Moraxella,Moraxella catarrhalis,#5B33AE,#5B33AE
+C_LRshot_noPre,0.05226497346474594,Staphylococcus,Staphylococcus epidermidis,#F89E21,#FFE934
+C_LRshot_noPre,0.02828847611827133,Bacillus A,Bacillus A anthracis,#303E45,#303E45
+C_LRshot_noPre,0.006965504169825583,Bacillus A,Bacillus A wiedmannii,#303E45,#557280
+D_LRshot_noPre,0.22094577865808387,Klebsiella,Klebsiella pneumoniae,#D31A55,#E71C57
+D_LRshot_noPre,0.21624164397128004,Pseudomonas,Pseudomonas aeruginosa,#5C9531,#5C9531
+D_LRshot_noPre,0.13775687051250313,Staphylococcus,Staphylococcus aureus,#F89E21,#F89E21
+D_LRshot_noPre,0.1314186679871255,Corynebacterium,Corynebacterium pseudodiphtheriticum,#007884,#00A2BA
+D_LRshot_noPre,0.10591730626392673,Corynebacterium,Corynebacterium kefirresidentii,#007884,#007884
+D_LRshot_noPre,0.09111166130230258,Moraxella,Moraxella catarrhalis,#5B33AE,#5B33AE
+D_LRshot_noPre,0.06288685318148053,Staphylococcus,Staphylococcus epidermidis,#F89E21,#FFE934
+D_LRshot_noPre,0.02446150037137907,Bacillus A,Bacillus A anthracis,#303E45,#303E45
+D_LRshot_noPre,0.005743996038623306,Bacillus A,Bacillus A wiedmannii,#303E45,#557280
+D_LRshot_noPre,0.0035157217132952504,Spirillospora,Spirillospora cremea,#ED6106,#ED6106
+E_LRshot_noPre,0.20367435581381704,Klebsiella,Klebsiella pneumoniae,#D31A55,#E71C57
+E_LRshot_noPre,0.18207430885719317,Pseudomonas,Pseudomonas aeruginosa,#5C9531,#5C9531
+E_LRshot_noPre,0.15243294007160893,Corynebacterium,Corynebacterium pseudodiphtheriticum,#007884,#00A2BA
+E_LRshot_noPre,0.14744379879086691,Staphylococcus,Staphylococcus aureus,#F89E21,#F89E21
+E_LRshot_noPre,0.11844808358279041,Corynebacterium,Corynebacterium kefirresidentii,#007884,#007884
+E_LRshot_noPre,0.10723718964606443,Moraxella,Moraxella catarrhalis,#5B33AE,#5B33AE
+E_LRshot_noPre,0.0608088278452778,Staphylococcus,Staphylococcus epidermidis,#F89E21,#FFE934
+E_LRshot_noPre,0.02013265246228789,Bacillus A,Bacillus A anthracis,#303E45,#303E45
+E_LRshot_noPre,0.003873921465046629,Spirillospora,Spirillospora cremea,#ED6106,#ED6106
+E_LRshot_noPre,0.003873921465046629,Bacillus A,Bacillus A wiedmannii,#303E45,#557280
+F_LRshot_noPre,0.21138633121514738,Klebsiella,Klebsiella pneumoniae,#D31A55,#E71C57
+F_LRshot_noPre,0.20529114252366762,Pseudomonas,Pseudomonas aeruginosa,#5C9531,#5C9531
+F_LRshot_noPre,0.14356114641421344,Staphylococcus,Staphylococcus aureus,#F89E21,#F89E21
+F_LRshot_noPre,0.13863312151471927,Corynebacterium,Corynebacterium pseudodiphtheriticum,#007884,#00A2BA
+F_LRshot_noPre,0.11658669433277136,Moraxella,Moraxella catarrhalis,#5B33AE,#5B33AE
+F_LRshot_noPre,0.10575800804046166,Corynebacterium,Corynebacterium kefirresidentii,#007884,#007884
+F_LRshot_noPre,0.05077162495136819,Staphylococcus,Staphylococcus epidermidis,#F89E21,#FFE934
+F_LRshot_noPre,0.02230579691350014,Bacillus A,Bacillus A anthracis,#303E45,#303E45
+F_LRshot_noPre,0.005706134094151062,Bacillus A,Bacillus A wiedmannii,#303E45,#557280

@@ -1,0 +1,18 @@
+Acinetobacter
+Bacillus A
+Clostridium H
+Corynebacteriaceae genera
+Corynebacterium
+Enterobacter
+Enterobacteriaceae genera
+Escherichia
+Shigella
+Gammaproteobacteria order
+Klebsiella
+Laceyella
+Moraxella
+Mycobacterium
+Pseudomonas
+Pseudomonas E
+Spirillospora
+Staphylococcus
